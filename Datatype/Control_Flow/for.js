@@ -1,3 +1,4 @@
+//Welcome
 "use strict";
 // Datatype/Control_Flow/for.ts
 // Simple examples of different `for` loop styles in TypeScript
